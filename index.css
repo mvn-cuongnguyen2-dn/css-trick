@@ -1,0 +1,18 @@
+.title {
+  color: brown;
+}
+.wrab-box {
+  display: flex;
+}
+.div {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(78, 35, 197);
+}
+.color {
+  margin-top: 100px;
+  width: 500px;
+  height: 350px;
+  /* background-color: cornflowerblue; */
+  background: linear-gradient(to left, #2C3E50 , #FD746C);
+}
